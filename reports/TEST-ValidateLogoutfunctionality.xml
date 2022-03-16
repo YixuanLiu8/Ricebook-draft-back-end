@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate Logout functionality" errors="0" tests="1" failures="0" time="0.095" timestamp="2021-11-18T16:14:59">
+  <testcase classname="Validate Logout functionality" name="logout simulate user1" time="0.094"></testcase>
+</testsuite>
+</testsuites>

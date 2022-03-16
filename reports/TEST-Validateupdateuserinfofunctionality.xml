@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate update userinfo functionality" errors="0" tests="6" failures="0" time="1.213" timestamp="2021-11-18T16:14:58">
+  <testcase classname="Validate update userinfo functionality" name="update simulate user1 headline" time="0.284"></testcase>
+  <testcase classname="Validate update userinfo functionality" name="add new followers to simulate user1" time="0.125"></testcase>
+  <testcase classname="Validate update userinfo functionality" name="delete simulate user1 followers" time="0.189"></testcase>
+  <testcase classname="Validate update userinfo functionality" name="update simulate user1 email" time="0.156"></testcase>
+  <testcase classname="Validate update userinfo functionality" name="update simulate user1 zipcode" time="0.221"></testcase>
+  <testcase classname="Validate update userinfo functionality" name="update simulate user1 avatar" time="0.235"></testcase>
+</testsuite>
+</testsuites>

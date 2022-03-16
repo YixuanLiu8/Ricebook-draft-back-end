@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate Get userinfo functionality" errors="0" tests="6" failures="0" time="0.943" timestamp="2021-11-18T16:14:57">
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 headline" time="0.173"></testcase>
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 followers" time="0.219"></testcase>
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 email" time="0.124"></testcase>
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 zipcode" time="0.144"></testcase>
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 dob" time="0.094"></testcase>
+  <testcase classname="Validate Get userinfo functionality" name="get simulate user1 avatar" time="0.188"></testcase>
+</testsuite>
+</testsuites>

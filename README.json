@@ -1,0 +1,5 @@
+
+{ "netid": "yl244",
+  "frontend": "https://yl244-hw6-frontend.surge.sh",
+  "backend": "https://yl244-hw6-backend.herokuapp.com"
+}
