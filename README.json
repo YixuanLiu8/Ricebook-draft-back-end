@@ -1,4 +1,4 @@
-Draft back-end using Redis
+Draft back-end using Redis as middlewares
 { 
   "frontend": "https://yl244-hw6-frontend.surge.sh",
   "backend": "https://yl244-hw6-backend.herokuapp.com"
